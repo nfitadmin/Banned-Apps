@@ -92,13 +92,9 @@
             "name": "Microsoft.MinecraftUWP",
             "reason": "Gaming application - not permitted on school devices"
         },
-        {
-            "name": "Mojang.MinecraftEducationEdition",
-            "reason": "Gaming application - requires approval from ICT"
-        }
     ],
     "lastUpdated": "2026-02-13",
     "version": "1.0",
-    "maintainedBy": "ICT Department - Northfield SSC",
+    "maintainedBy": "ICT Department"
     "notes": "Add new banned applications to this list. Use the exact package name from Get-AppxPackage output."
 }
