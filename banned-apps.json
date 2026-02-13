@@ -1,0 +1,104 @@
+{
+    "bannedApps": [
+        {
+            "name": "GAMELOFTSA.Asphalt8Airborne",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "GAMELOFTSA.Asphalt9Legends",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "king.com.CandyCrushSodaSaga",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "king.com.CandyCrushSaga",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "king.com.CandyCrushFriends",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "king.com.FarmHeroesSaga",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "king.com.BubbleWitch3Saga",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "NORDCURRENT.COOKINGFEVER",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "Playtika.CaesarsSlotsFreeCasino",
+            "reason": "Gaming/Gambling application - not permitted on school devices"
+        },
+        {
+            "name": "A278AB0D.MarchofEmpires",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "Disney.37853FC22B2CE",
+            "reason": "Streaming application - not permitted on school devices"
+        },
+        {
+            "name": "SpotifyAB.SpotifyMusic",
+            "reason": "Streaming application - not permitted on school devices"
+        },
+        {
+            "name": "Netflix.Netflix",
+            "reason": "Streaming application - not permitted on school devices"
+        },
+        {
+            "name": "4DF9E0F8.Netflix",
+            "reason": "Streaming application - not permitted on school devices"
+        },
+        {
+            "name": "CAF9E577.Plex",
+            "reason": "Streaming application - not permitted on school devices"
+        },
+        {
+            "name": "BytedancePte.Ltd.TikTok",
+            "reason": "Social media application - not permitted on school devices"
+        },
+        {
+            "name": "Facebook.Facebook",
+            "reason": "Social media application - not permitted on school devices"
+        },
+        {
+            "name": "Facebook.Instagram",
+            "reason": "Social media application - not permitted on school devices"
+        },
+        {
+            "name": "5319275A.WhatsAppDesktop",
+            "reason": "Messaging application - not permitted on school devices"
+        },
+        {
+            "name": "Telegram.TelegramDesktop",
+            "reason": "Messaging application - not permitted on school devices"
+        },
+        {
+            "name": "DiscordInc.Discord",
+            "reason": "Messaging application - not permitted on school devices"
+        },
+        {
+            "name": "ROBLOXCORPORATION.ROBLOX",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "Microsoft.MinecraftUWP",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "Mojang.MinecraftEducationEdition",
+            "reason": "Gaming application - requires approval from ICT"
+        }
+    ],
+    "lastUpdated": "2026-02-13",
+    "version": "1.0",
+    "maintainedBy": "ICT Department - Northfield SSC",
+    "notes": "Add new banned applications to this list. Use the exact package name from Get-AppxPackage output."
+}
