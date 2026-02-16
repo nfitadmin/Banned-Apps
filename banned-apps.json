@@ -26,6 +26,11 @@
             "reason": "Gaming application - not permitted on school devices"
         },
         {
+            "name": "VectorUnit.BeachBuggyRacing",
+            "type": "store",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
             "name": "king.com.FarmHeroesSaga",
             "type": "store",
             "reason": "Gaming application - not permitted on school devices"
@@ -139,6 +144,11 @@
             "name": "Windscribe.Windscribe",
             "type": "store",
             "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "FINGERSOFT.HILLCLIMBRACING",
+            "type": "store",
+            "reason": "Gaming application - not permitted on school devices"
         },
         {
             "name": "Minecraft Launcher",
