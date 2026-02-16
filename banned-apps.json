@@ -91,10 +91,10 @@
         {
             "name": "Microsoft.MinecraftUWP",
             "reason": "Gaming application - not permitted on school devices"
-        },
+        }
     ],
     "lastUpdated": "2026-02-13",
     "version": "1.0",
-    "maintainedBy": "ICT Department"
+    "maintainedBy": "ICT Department",
     "notes": "Add new banned applications to this list. Use the exact package name from Get-AppxPackage output."
 }
