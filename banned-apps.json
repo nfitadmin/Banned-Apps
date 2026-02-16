@@ -2,99 +2,354 @@
     "bannedApps": [
         {
             "name": "GAMELOFTSA.Asphalt8Airborne",
+            "type": "store",
             "reason": "Gaming application - not permitted on school devices"
         },
         {
             "name": "GAMELOFTSA.Asphalt9Legends",
+            "type": "store",
             "reason": "Gaming application - not permitted on school devices"
         },
         {
             "name": "king.com.CandyCrushSodaSaga",
+            "type": "store",
             "reason": "Gaming application - not permitted on school devices"
         },
         {
             "name": "king.com.CandyCrushSaga",
+            "type": "store",
             "reason": "Gaming application - not permitted on school devices"
         },
         {
             "name": "king.com.CandyCrushFriends",
+            "type": "store",
             "reason": "Gaming application - not permitted on school devices"
         },
         {
             "name": "king.com.FarmHeroesSaga",
+            "type": "store",
             "reason": "Gaming application - not permitted on school devices"
         },
         {
             "name": "king.com.BubbleWitch3Saga",
+            "type": "store",
             "reason": "Gaming application - not permitted on school devices"
         },
         {
             "name": "NORDCURRENT.COOKINGFEVER",
+            "type": "store",
             "reason": "Gaming application - not permitted on school devices"
         },
         {
             "name": "Playtika.CaesarsSlotsFreeCasino",
+            "type": "store",
             "reason": "Gaming/Gambling application - not permitted on school devices"
         },
         {
             "name": "A278AB0D.MarchofEmpires",
+            "type": "store",
             "reason": "Gaming application - not permitted on school devices"
         },
         {
             "name": "Disney.37853FC22B2CE",
+            "type": "store",
             "reason": "Streaming application - not permitted on school devices"
         },
         {
             "name": "SpotifyAB.SpotifyMusic",
+            "type": "store",
             "reason": "Streaming application - not permitted on school devices"
         },
         {
             "name": "Netflix.Netflix",
+            "type": "store",
             "reason": "Streaming application - not permitted on school devices"
         },
         {
             "name": "4DF9E0F8.Netflix",
+            "type": "store",
             "reason": "Streaming application - not permitted on school devices"
         },
         {
             "name": "CAF9E577.Plex",
+            "type": "store",
             "reason": "Streaming application - not permitted on school devices"
         },
         {
             "name": "BytedancePte.Ltd.TikTok",
+            "type": "store",
             "reason": "Social media application - not permitted on school devices"
         },
         {
             "name": "Facebook.Facebook",
+            "type": "store",
             "reason": "Social media application - not permitted on school devices"
         },
         {
             "name": "Facebook.Instagram",
+            "type": "store",
             "reason": "Social media application - not permitted on school devices"
         },
         {
             "name": "5319275A.WhatsAppDesktop",
+            "type": "store",
             "reason": "Messaging application - not permitted on school devices"
         },
         {
             "name": "Telegram.TelegramDesktop",
+            "type": "store",
             "reason": "Messaging application - not permitted on school devices"
         },
         {
             "name": "DiscordInc.Discord",
+            "type": "store",
             "reason": "Messaging application - not permitted on school devices"
         },
         {
             "name": "ROBLOXCORPORATION.ROBLOX",
+            "type": "store",
             "reason": "Gaming application - not permitted on school devices"
         },
         {
             "name": "Microsoft.MinecraftUWP",
+            "type": "store",
             "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "NordVPNs.a.NordVPN",
+            "type": "store",
+            "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "ExpressVPN.ExpressVPN",
+            "type": "store",
+            "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "SurfSharkVPN.SurfShark",
+            "type": "store",
+            "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "ProtonAG.ProtonVPN",
+            "type": "store",
+            "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "Windscribe.Windscribe",
+            "type": "store",
+            "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "Minecraft Launcher",
+            "type": "exe",
+            "paths": [
+                "Program Files (x86)\\Minecraft Launcher",
+                "AppData\\Local\\Programs\\Minecraft Launcher"
+            ],
+            "processName": "MinecraftLauncher",
+            "uninstallName": "Minecraft Launcher",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "Steam",
+            "type": "exe",
+            "paths": [
+                "Program Files (x86)\\Steam",
+                "Program Files\\Steam"
+            ],
+            "processName": "steam",
+            "uninstallName": "Steam",
+            "reason": "Gaming platform - not permitted on school devices"
+        },
+        {
+            "name": "Epic Games Launcher",
+            "type": "exe",
+            "paths": [
+                "Program Files (x86)\\Epic Games",
+                "Program Files\\Epic Games"
+            ],
+            "processName": "EpicGamesLauncher",
+            "uninstallName": "Epic Games Launcher",
+            "reason": "Gaming platform - not permitted on school devices"
+        },
+        {
+            "name": "Discord",
+            "type": "exe",
+            "paths": [
+                "AppData\\Local\\Discord"
+            ],
+            "processName": "Discord",
+            "uninstallName": "Discord",
+            "reason": "Messaging application - not permitted on school devices"
+        },
+        {
+            "name": "NordVPN",
+            "type": "exe",
+            "paths": [
+                "Program Files\\NordVPN",
+                "Program Files (x86)\\NordVPN"
+            ],
+            "processName": "NordVPN",
+            "uninstallName": "NordVPN",
+            "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "ExpressVPN",
+            "type": "exe",
+            "paths": [
+                "Program Files (x86)\\ExpressVPN",
+                "Program Files\\ExpressVPN"
+            ],
+            "processName": "ExpressVPN",
+            "uninstallName": "ExpressVPN",
+            "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "ProtonVPN",
+            "type": "exe",
+            "paths": [
+                "Program Files\\Proton\\VPN",
+                "AppData\\Local\\ProtonVPN"
+            ],
+            "processName": "ProtonVPN",
+            "uninstallName": "Proton VPN",
+            "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "Surfshark",
+            "type": "exe",
+            "paths": [
+                "Program Files\\Surfshark",
+                "Program Files (x86)\\Surfshark"
+            ],
+            "processName": "Surfshark",
+            "uninstallName": "Surfshark",
+            "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "CyberGhost",
+            "type": "exe",
+            "paths": [
+                "Program Files\\CyberGhost",
+                "Program Files (x86)\\CyberGhost"
+            ],
+            "processName": "CyberGhost",
+            "uninstallName": "CyberGhost",
+            "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "Hotspot Shield",
+            "type": "exe",
+            "paths": [
+                "Program Files (x86)\\Hotspot Shield",
+                "Program Files\\Hotspot Shield"
+            ],
+            "processName": "HotspotShield",
+            "uninstallName": "Hotspot Shield",
+            "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "Windscribe",
+            "type": "exe",
+            "paths": [
+                "Program Files (x86)\\Windscribe",
+                "Program Files\\Windscribe"
+            ],
+            "processName": "Windscribe",
+            "uninstallName": "Windscribe",
+            "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "TunnelBear",
+            "type": "exe",
+            "paths": [
+                "Program Files (x86)\\TunnelBear",
+                "Program Files\\TunnelBear"
+            ],
+            "processName": "TunnelBear",
+            "uninstallName": "TunnelBear",
+            "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "Private Internet Access",
+            "type": "exe",
+            "paths": [
+                "Program Files\\Private Internet Access",
+                "Program Files (x86)\\Private Internet Access"
+            ],
+            "processName": "pia-client",
+            "uninstallName": "Private Internet Access",
+            "reason": "VPN application - not permitted on school devices"
+        },
+        {
+            "name": "Psiphon",
+            "type": "exe",
+            "paths": [
+                "AppData\\Local\\Psiphon",
+                "AppData\\Roaming\\Psiphon"
+            ],
+            "processName": "psiphon",
+            "uninstallName": "Psiphon",
+            "reason": "VPN/Proxy application - not permitted on school devices"
+        },
+        {
+            "name": "Ultrasurf",
+            "type": "exe",
+            "paths": [
+                "AppData\\Local\\Ultrasurf"
+            ],
+            "processName": "ultrasurf",
+            "uninstallName": "Ultrasurf",
+            "reason": "VPN/Proxy application - not permitted on school devices"
+        },
+        {
+            "name": "Tor Browser",
+            "type": "exe",
+            "paths": [
+                "Desktop\\Tor Browser",
+                "AppData\\Local\\Tor Browser"
+            ],
+            "processName": "firefox",
+            "uninstallName": "Tor Browser",
+            "reason": "Anonymous browsing - not permitted on school devices"
+        },
+        {
+            "name": "BlueStacks",
+            "type": "exe",
+            "paths": [
+                "Program Files\\BlueStacks",
+                "Program Files\\BlueStacks_nxt"
+            ],
+            "processName": "HD-Player",
+            "uninstallName": "BlueStacks",
+            "reason": "Android emulator - not permitted on school devices"
+        },
+        {
+            "name": "LDPlayer",
+            "type": "exe",
+            "paths": [
+                "Program Files\\LDPlayer",
+                "LDPlayer"
+            ],
+            "processName": "dnplayer",
+            "uninstallName": "LDPlayer",
+            "reason": "Android emulator - not permitted on school devices"
+        },
+        {
+            "name": "Nox Player",
+            "type": "exe",
+            "paths": [
+                "Program Files\\Nox",
+                "Program Files (x86)\\Nox"
+            ],
+            "processName": "Nox",
+            "uninstallName": "Nox",
+            "reason": "Android emulator - not permitted on school devices"
         }
     ],
-    "lastUpdated": "2026-02-13",
-    "version": "1.0",
+    "lastUpdated": "2026-02-16",
+    "version": "2.0",
     "maintainedBy": "ICT Department",
-    "notes": "Add new banned applications to this list. Use the exact package name from Get-AppxPackage output."
+    "notes": "Store apps use 'type': 'store'. Desktop apps use 'type': 'exe' with paths, processName and uninstallName."
 }
