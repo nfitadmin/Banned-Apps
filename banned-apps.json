@@ -6,7 +6,27 @@
             "reason": "Gaming application - not permitted on school devices"
         },
         {
+            "name": "41275BlackFoxEnt.DriftLegends2",
+            "type": "store",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "7659327F2E2D.SunsetBikeRacer",
+            "type": "store",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "C40DCF4F.TopSpeedDragFastRacing",
+            "type": "store",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
             "name": "GAMELOFTSA.Asphalt9Legends",
+            "type": "store",
+            "reason": "Gaming application - not permitted on school devices"
+        },
+        {
+            "name": "Microsoft.MicrosoftMinesweeper",
             "type": "store",
             "reason": "Gaming application - not permitted on school devices"
         },
