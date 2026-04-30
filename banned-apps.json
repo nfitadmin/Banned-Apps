@@ -182,17 +182,6 @@
             "reason": "Gaming application - not permitted on school devices"
         },
         {
-            "name": "Steam",
-            "type": "exe",
-            "paths": [
-                "Program Files (x86)\\Steam",
-                "Program Files\\Steam"
-            ],
-            "processName": "steam",
-            "uninstallName": "Steam",
-            "reason": "Gaming platform - not permitted on school devices"
-        },
-        {
             "name": "Epic Games Launcher",
             "type": "exe",
             "paths": [
